@@ -1,0 +1,7 @@
+
+gemini_key.txt
+__pycache__
+release/
+*.zip
+easygit.py
+sync.bat
