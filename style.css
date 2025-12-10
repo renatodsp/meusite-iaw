@@ -7,7 +7,6 @@
 .menu-simples a {
     font-size: 18px;
     color: #3498db;
-    /* Cor do tema */
 }
 
 .menu-simples a:hover {
@@ -18,21 +17,16 @@
     color: #e67e22;
 }
 
-/* Link para subir ao topo (setinha) */
 .link-topo {
     font-size: 0.6em;
-    /* Menor que o título */
-    text-decoration: none !important;
-    /* Remove sublinhado se herdar */
+    text-decoration: none
     margin-left: 10px;
     color: #95a5a6;
-    /* Cor discreta */
     vertical-align: middle;
 }
 
 .link-topo:hover {
     color: #3498db;
-    /* Destaca ao passar o mouse */
 }
 
 body {
@@ -76,14 +70,12 @@ ol {
     font-weight: bold;
 }
 
-
 a {
     text-decoration: none;
     color: #2980b9;
     font-weight: bold;
 }
 
-/*Hover para quando passa o mouse*/
 a:hover {
     color: #c0392b;
     text-decoration: underline;
